@@ -30,9 +30,7 @@ This Note Taking App offers a clean, intuitive interface for capturing your thou
 | Feature | Screenshot |
 |---------|------------|
 | Login Screen | ![Screenshot 2025-03-13 022523](https://github.com/user-attachments/assets/1473290f-542e-4eb1-9e00-3cdf9bfa30df) |
-
 | Notes Dashboard | ![Screenshot 2025-03-13 022548](https://github.com/user-attachments/assets/7011a4b2-6532-4fac-a1fc-b1f06719fef0) |
-
 | Create Note | ![Screenshot 2025-03-13 022559](https://github.com/user-attachments/assets/290a696c-20b7-4e8a-a596-919d4f2de1e1) |
 | Backend View | ![Screenshot 2025-03-13 022627](https://github.com/user-attachments/assets/d0a79f82-9499-499e-8848-2fb95039f57c) |
 
