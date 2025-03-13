@@ -2,6 +2,9 @@
 
 A responsive web application for creating, organizing, and managing notes with real-time cloud synchronization using Firebase.
 
+
+
+
 ## 📝 Overview
 
 This Note Taking App offers a clean, intuitive interface for capturing your thoughts, ideas, and important information. Built with HTML, CSS, and JavaScript with Firebase integration for backend functionality and data persistence.
@@ -29,15 +32,30 @@ This Note Taking App offers a clean, intuitive interface for capturing your thou
 
 | Feature | Screenshot |
 |---------|------------|
-| Login Screen | ![Screenshot 2025-03-13 022523](https://github.com/user-attachments/assets/1473290f-542e-4eb1-9e00-3cdf9bfa30df) |
-| Notes Dashboard | ![Screenshot 2025-03-13 022548](https://github.com/user-attachments/assets/7011a4b2-6532-4fac-a1fc-b1f06719fef0) |
-| Create Note | ![Screenshot 2025-03-13 022559](https://github.com/user-attachments/assets/290a696c-20b7-4e8a-a596-919d4f2de1e1) |
+| Login Screen | ![Screenshot 2025-03-13 131121](https://github.com/user-attachments/assets/36b65ede-fc93-4e11-a0dd-6be68e9243f8) |
+| Notes Dashboard | ![Screenshot 2025-03-13 131105](https://github.com/user-attachments/assets/5180a7df-852c-4b2f-9c8c-a009268623e6) |
+| Create Note | ![Screenshot 2025-03-13 125158](https://github.com/user-attachments/assets/34e835f2-3d0c-49b4-9498-0de7a2bd7117) |
 | Backend View | ![Screenshot 2025-03-13 022627](https://github.com/user-attachments/assets/d0a79f82-9499-499e-8848-2fb95039f57c) |
 
-*To add your screenshots:*
-1. Create a `screenshots` folder in your repository
-2. Add your application screenshots to this folder
-3. Update the paths in the table above
+## 📝 Videos
+
+https://github.com/user-attachments/assets/0eed946b-3157-4910-b308-aae34140cd5e
+
+
+
+https://github.com/user-attachments/assets/91b9c18f-aca5-4ccc-a2f4-29723ff2ecb6
+
+
+
+https://github.com/user-attachments/assets/853dc681-cd4b-4ee9-b99b-d89479d08632
+
+
+
+
+
+
+
+
 
 ## 🚀 Getting Started
 
