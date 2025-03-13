@@ -69,7 +69,7 @@ https://github.com/user-attachments/assets/853dc681-cd4b-4ee9-b99b-d89479d08632
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/note-taking-app.git
+   git clone https://github.com/aliiakbarkhan/note-taking-app.git
    cd note-taking-app
    ```
 
