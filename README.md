@@ -1,5 +1,7 @@
 # Note Taking App
 
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/dj0xdez-4eda16a3-692d-470a-a006-31cd013b4e97.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGoweGRlei00ZWRhMTZhMy02OTJkLTQ3MGEtYTAwNi0zMWNkMDEzYjRlOTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-vgia6h_JRVXXelFnMDK68MCPwA1kEel2w5YluYTqjE" />
+
 A responsive web application for creating, organizing, and managing notes with real-time cloud synchronization using Firebase.
 
 
